@@ -1,0 +1,31 @@
+student_id,roll_no,name,dept_name,semester,Data Structures,Database Management,English Communication,Mathematics,Physics,Python Programming,total,percentage,grade,status,rank
+20,B244020,Vedant Gaikwad,Civil,3,79.0,90.0,87.0,95.0,84.0,77.0,512.0,85.33,A,PASS,1
+1,B241001,Aarav Sharma,Computer Science,3,93.0,89.0,86.0,91.0,98.0,52.0,509.0,84.83,A,PASS,2
+5,B241005,Arjun Joshi,Computer Science,3,83.0,78.0,94.0,72.0,75.0,77.0,479.0,79.83,B+,PASS,3
+2,B242002,Vivaan Patil,Electronics,3,76.0,66.0,77.0,75.0,90.0,90.0,474.0,79.0,B+,PASS,4
+22,B242022,Harsh Thakur,Electronics,3,82.0,83.0,77.0,77.0,75.0,73.0,467.0,77.83,B+,PASS,5
+26,B242026,Tanvi Kadam,Electronics,3,74.0,81.0,80.0,81.0,68.0,70.0,454.0,75.67,B+,PASS,6
+21,B241021,Aishwarya Salunkhe,Computer Science,3,79.0,68.0,72.0,76.0,82.0,74.0,451.0,75.17,B+,PASS,7
+29,B241029,Rahul Yadav,Computer Science,3,84.0,87.0,60.0,85.0,61.0,67.0,444.0,74.0,B+,PASS,8
+7,B243007,Ananya Iyer,Mechanical,4,64.0,98.0,64.0,68.0,66.0,81.0,441.0,73.5,B+,PASS,9
+12,B244012,Karan Singh,Civil,4,96.0,84.0,71.0,78.0,63.0,48.0,440.0,73.33,B+,PASS,10
+11,B243011,Rohan Mehta,Mechanical,4,92.0,60.0,84.0,57.0,87.0,58.0,438.0,73.0,B+,PASS,11
+27,B243027,Manas Bhatt,Mechanical,3,98.0,74.0,82.0,52.0,79.0,51.0,436.0,72.67,B+,PASS,12
+19,B243019,Tanmay Chavan,Mechanical,3,68.0,74.0,53.0,66.0,83.0,79.0,423.0,70.5,B+,PASS,13
+14,B242014,Pooja Jadhav,Electronics,4,88.0,59.0,81.0,72.0,72.0,49.0,421.0,70.17,B+,PASS,14
+4,B244004,Sai Deshmukh,Civil,4,74.0,76.0,86.0,74.0,59.0,50.0,419.0,69.83,B,PASS,15
+16,B244016,Omkar Bhosale,Civil,3,72.0,69.0,67.0,57.0,64.0,85.0,414.0,69.0,B,PASS,16
+17,B241017,Prathamesh More,Computer Science,3,67.0,62.0,54.0,81.0,89.0,61.0,414.0,69.0,B,PASS,16
+6,B242006,Riya Gupta,Electronics,3,62.0,62.0,71.0,74.0,67.0,61.0,397.0,66.17,B,PASS,18
+30,B242030,Siddhi Naik,Electronics,3,65.0,72.0,63.0,60.0,67.0,57.0,384.0,64.0,B,PASS,19
+13,B241013,Neha Pawar,Computer Science,4,70.0,74.0,49.0,60.0,58.0,72.0,383.0,63.83,B,PASS,20
+10,B242010,Kavya Reddy,Electronics,4,48.0,81.0,67.0,43.0,70.0,67.0,376.0,62.67,B,PASS,21
+15,B243015,Sneha Kale,Mechanical,4,51.0,57.0,70.0,80.0,65.0,37.0,360.0,60.0,B,FAIL,22
+3,B243003,Aditya Kulkarni,Mechanical,4,54.0,50.0,71.0,51.0,51.0,66.0,343.0,57.17,C,PASS,23
+25,B241025,Yash Agarwal,Computer Science,4,63.0,50.0,52.0,61.0,50.0,56.0,332.0,55.33,C,PASS,24
+24,B244024,Sakshi Rane,Civil,3,71.0,56.0,77.0,40.0,56.0,32.0,332.0,55.33,C,FAIL,24
+8,B244008,Diya Nair,Civil,4,37.0,47.0,62.0,55.0,51.0,63.0,315.0,52.5,C,FAIL,26
+28,B244028,Nidhi Saxena,Civil,4,61.0,38.0,49.0,35.0,62.0,61.0,306.0,51.0,C,FAIL,27
+9,B241009,Isha Verma,Computer Science,4,42.0,46.0,41.0,58.0,54.0,57.0,298.0,49.67,D,PASS,28
+23,B243023,Mihir Bansal,Mechanical,4,56.0,47.0,44.0,34.0,23.0,46.0,250.0,41.67,D,FAIL,29
+18,B242018,Shreya Shinde,Electronics,4,42.0,48.0,25.0,43.0,18.0,34.0,210.0,35.0,F,FAIL,30

@@ -1,0 +1,7 @@
+subject_id,subject_code,subject_name,credits
+1,MA101,Mathematics,4
+2,PH102,Physics,4
+3,CS103,Python Programming,3
+4,CS104,Database Management,3
+5,CS105,Data Structures,4
+6,HU106,English Communication,2
